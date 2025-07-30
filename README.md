@@ -25,7 +25,7 @@ We wanted to build a product adoption system that exists **inside the product**,
 **User flow**:
 
 1. User clicks **"Ask AI"** inside the app
-2. Types: *“Create a new top-level category named ‘Finance’”*
+2. Types: *“Integrate Slack with my workspace and activate all notifications”*
 3. Mues moves the cursor, completes the workflow as requested
 4. No documentation read, no waiting—just action
 
