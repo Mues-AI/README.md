@@ -1,4 +1,4 @@
-# README.md
+# Mues AI
 Mues AI is an Agentic-AI layer that helps increase product adoption for modern SaaS products.
 
 ## 🚀 What is Mues AI?
